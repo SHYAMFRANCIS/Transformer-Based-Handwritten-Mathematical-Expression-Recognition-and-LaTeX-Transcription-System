@@ -87,3 +87,4 @@ uv run --project E:\pix2tex_project pytest tests/test_inference.py::test_wrapper
 ## Style
 
 - Surgical edits, minimal diff, preserve `E:`/`cpu` invariants verbatim. Prefer `Read`/`Write`/`Edit`/`Grep` over shell. Use `default.task` for parallel independent files (`data_loader.py` + `synthetic_generator.py`).
+opencode -s ses_fae7b666fffeMoQOQOEOGHUhs7
