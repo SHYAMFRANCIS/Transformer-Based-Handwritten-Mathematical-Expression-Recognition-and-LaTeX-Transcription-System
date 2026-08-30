@@ -1,0 +1,48 @@
+[project]
+name = "pix2tex-project"
+version = "0.1.0"
+description = "Handwritten MER Pix2Tex CPU Optimized for AMD Ryzen AI 7"
+readme = "README.md"
+requires-python = ">=3.10,<3.13"
+dependencies = [
+  "torch==2.4.1",
+  "torchvision==0.19.1",
+  "pix2tex>=0.0.44",
+  "gradio>=4.44.0",
+  "jupyter>=1.0.0",
+  "nbformat>=5.10.0",
+  "Pillow>=10.0.0",
+  "transformers>=4.30.0",
+  "albumentations>=1.3.0",
+  "opencv-python>=4.8.0",
+  "pandas>=2.0.0",
+  "tqdm>=4.66.0",
+  "huggingface-hub>=0.20.0",
+  "pytest>=8.0.0",
+  "psutil>=6.0.0",
+  "matplotlib>=3.8.0",
+]
+
+[project.scripts]
+train-local = "src.train_local:main"
+demo = "app:main"
+generate-colab = "src.generate_colab:main"
+
+[tool.uv]
+managed = true
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true
+
+[tool.uv.sources]
+torch = { index = "pytorch-cpu" }
+torchvision = { index = "pytorch-cpu" }
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]

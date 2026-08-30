@@ -1,0 +1,10 @@
+E:\pix2tex_project\data\mini\images\46.png	\int_0^1 x \, dx
+E:\pix2tex_project\data\mini\images\51.png	\partial_t u + \nabla \cdot (u \mathbf{v}) = 0
+E:\pix2tex_project\data\mini\images\94.png	\log_{2} 8 = 3
+E:\pix2tex_project\data\mini\images\54.png	e^{i\pi} + 1 = 0
+E:\pix2tex_project\data\mini\images\74.png	\forall x \in \mathbb{R}
+E:\pix2tex_project\data\mini\images\33.png	e^{i\pi} + 1 = 0
+E:\pix2tex_project\data\mini\images\68.png	\mathcal{L} = \frac{1}{2}mv^2
+E:\pix2tex_project\data\mini\images\71.png	\sum_{i=1}^{n} x_i
+E:\pix2tex_project\data\mini\images\95.png	x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
+E:\pix2tex_project\data\mini\images\31.png	\lim_{x \to \infty} \frac{1}{x} = 0

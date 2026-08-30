@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Env
+.venv/
+venv/
+.env
+*.egg-info/
+
+# Checkpoints - keep small smoke checkpoints but ignore large full runs
+# checkpoints/*.pt - uncomment to ignore if large
+# For this project keep epoch*.pt (6MB total) but ignore future large
+checkpoints/last_output.tex
+app_test.log
+app_test_err.log
+
+# Data raw - ignore large downloads, keep mini/samples
+data/raw/
+data/processed/
+output/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+uv_sync.log
+*.log

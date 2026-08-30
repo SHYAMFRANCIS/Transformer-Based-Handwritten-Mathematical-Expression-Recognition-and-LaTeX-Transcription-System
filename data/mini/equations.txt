@@ -1,0 +1,100 @@
+\int_0^1 x \, dx
+x^2 + y^2 = z^2
+\lim_{x \to \infty} \frac{1}{x} = 0
+\alpha + \beta = \gamma
+\alpha + \beta = \gamma
+\sqrt{2\pi r}
+\int_0^1 x \, dx
+\forall x \in \mathbb{R}
+\sum_{i=1}^{n} x_i
+\exists y : y > x
+\nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon_0}
+\frac{a}{b}
+x^2 + y^2 = z^2
+\sum_{i=1}^{n} x_i
+e^{i\pi} + 1 = 0
+\alpha + \beta = \gamma
+\binom{n}{k} = \frac{n!}{k!(n-k)!}
+\partial_t u + \nabla \cdot (u \mathbf{v}) = 0
+x^2 + y^2 = z^2
+\forall x \in \mathbb{R}
+e^{i\pi} + 1 = 0
+\forall x \in \mathbb{R}
+\nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon_0}
+\alpha + \beta = \gamma
+\sin^2 \theta + \cos^2 \theta = 1
+\exists y : y > x
+\lim_{x \to \infty} \frac{1}{x} = 0
+x^2 + y^2 = z^2
+\frac{x^2 + 3x - 5}{2a}
+\nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon_0}
+\vec{F} = m\vec{a}
+\lim_{x \to \infty} \frac{1}{x} = 0
+\sqrt{2\pi r}
+e^{i\pi} + 1 = 0
+\vec{F} = m\vec{a}
+\int_0^1 x \, dx
+\sum_{i=1}^{n} x_i
+x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
+\int_0^1 x \, dx
+\mathcal{L} = \frac{1}{2}mv^2
+\mathcal{L} = \frac{1}{2}mv^2
+\partial_t u + \nabla \cdot (u \mathbf{v}) = 0
+\lim_{x \to \infty} \frac{1}{x} = 0
+\frac{a}{b}
+\sin^2 \theta + \cos^2 \theta = 1
+\forall x \in \mathbb{R}
+\int_0^1 x \, dx
+x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
+\sum_{i=1}^{n} x_i
+\forall x \in \mathbb{R}
+\prod_{k=1}^{n} k = n!
+\partial_t u + \nabla \cdot (u \mathbf{v}) = 0
+\mathcal{L} = \frac{1}{2}mv^2
+\exists y : y > x
+e^{i\pi} + 1 = 0
+\sum_{i=1}^{n} x_i
+\frac{a}{b}
+\alpha + \beta = \gamma
+\prod_{k=1}^{n} k = n!
+\sum_{i=1}^{n} x_i
+\alpha + \beta = \gamma
+\int_0^1 x \, dx
+x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
+\lim_{x \to \infty} \frac{1}{x} = 0
+\sin^2 \theta + \cos^2 \theta = 1
+\mathcal{L} = \frac{1}{2}mv^2
+\frac{x^2 + 3x - 5}{2a}
+\mathcal{L} = \frac{1}{2}mv^2
+\mathcal{L} = \frac{1}{2}mv^2
+e^{i\pi} + 1 = 0
+\lim_{x \to \infty} \frac{1}{x} = 0
+\sum_{i=1}^{n} x_i
+\partial_t u + \nabla \cdot (u \mathbf{v}) = 0
+\frac{x^2 + 3x - 5}{2a}
+\forall x \in \mathbb{R}
+\alpha + \beta = \gamma
+\frac{x^2 + 3x - 5}{2a}
+\sin^2 \theta + \cos^2 \theta = 1
+x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
+\lim_{x \to \infty} \frac{1}{x} = 0
+\forall x \in \mathbb{R}
+\alpha + \beta = \gamma
+\vec{F} = m\vec{a}
+\frac{a}{b}
+\alpha + \beta = \gamma
+\frac{a}{b}
+\vec{F} = m\vec{a}
+x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
+\lim_{x \to \infty} \frac{1}{x} = 0
+\sum_{i=1}^{n} x_i
+e^{i\pi} + 1 = 0
+\exists y : y > x
+\vec{F} = m\vec{a}
+e^{i\pi} + 1 = 0
+\log_{2} 8 = 3
+x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
+\sin^2 \theta + \cos^2 \theta = 1
+\sqrt{2\pi r}
+\lim_{x \to \infty} \frac{1}{x} = 0
+\sqrt{2\pi r}

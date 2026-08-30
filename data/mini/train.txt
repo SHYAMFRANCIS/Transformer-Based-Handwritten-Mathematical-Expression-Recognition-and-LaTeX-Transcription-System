@@ -1,0 +1,80 @@
+E:\pix2tex_project\data\mini\images\39.png	\mathcal{L} = \frac{1}{2}mv^2
+E:\pix2tex_project\data\mini\images\30.png	\vec{F} = m\vec{a}
+E:\pix2tex_project\data\mini\images\61.png	\int_0^1 x \, dx
+E:\pix2tex_project\data\mini\images\53.png	\exists y : y > x
+E:\pix2tex_project\data\mini\images\22.png	\nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon_0}
+E:\pix2tex_project\data\mini\images\58.png	\prod_{k=1}^{n} k = n!
+E:\pix2tex_project\data\mini\images\45.png	\forall x \in \mathbb{R}
+E:\pix2tex_project\data\mini\images\47.png	x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
+E:\pix2tex_project\data\mini\images\42.png	\lim_{x \to \infty} \frac{1}{x} = 0
+E:\pix2tex_project\data\mini\images\87.png	x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
+E:\pix2tex_project\data\mini\images\3.png	\alpha + \beta = \gamma
+E:\pix2tex_project\data\mini\images\91.png	\exists y : y > x
+E:\pix2tex_project\data\mini\images\44.png	\sin^2 \theta + \cos^2 \theta = 1
+E:\pix2tex_project\data\mini\images\13.png	\sum_{i=1}^{n} x_i
+E:\pix2tex_project\data\mini\images\27.png	x^2 + y^2 = z^2
+E:\pix2tex_project\data\mini\images\77.png	\sin^2 \theta + \cos^2 \theta = 1
+E:\pix2tex_project\data\mini\images\5.png	\sqrt{2\pi r}
+E:\pix2tex_project\data\mini\images\21.png	\forall x \in \mathbb{R}
+E:\pix2tex_project\data\mini\images\24.png	\sin^2 \theta + \cos^2 \theta = 1
+E:\pix2tex_project\data\mini\images\64.png	\sin^2 \theta + \cos^2 \theta = 1
+E:\pix2tex_project\data\mini\images\4.png	\alpha + \beta = \gamma
+E:\pix2tex_project\data\mini\images\88.png	\lim_{x \to \infty} \frac{1}{x} = 0
+E:\pix2tex_project\data\mini\images\25.png	\exists y : y > x
+E:\pix2tex_project\data\mini\images\36.png	\sum_{i=1}^{n} x_i
+E:\pix2tex_project\data\mini\images\79.png	\lim_{x \to \infty} \frac{1}{x} = 0
+E:\pix2tex_project\data\mini\images\26.png	\lim_{x \to \infty} \frac{1}{x} = 0
+E:\pix2tex_project\data\mini\images\2.png	\lim_{x \to \infty} \frac{1}{x} = 0
+E:\pix2tex_project\data\mini\images\18.png	x^2 + y^2 = z^2
+E:\pix2tex_project\data\mini\images\89.png	\sum_{i=1}^{n} x_i
+E:\pix2tex_project\data\mini\images\41.png	\partial_t u + \nabla \cdot (u \mathbf{v}) = 0
+E:\pix2tex_project\data\mini\images\35.png	\int_0^1 x \, dx
+E:\pix2tex_project\data\mini\images\15.png	\alpha + \beta = \gamma
+E:\pix2tex_project\data\mini\images\78.png	x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
+E:\pix2tex_project\data\mini\images\66.png	\frac{x^2 + 3x - 5}{2a}
+E:\pix2tex_project\data\mini\images\7.png	\forall x \in \mathbb{R}
+E:\pix2tex_project\data\mini\images\97.png	\sqrt{2\pi r}
+E:\pix2tex_project\data\mini\images\99.png	\sqrt{2\pi r}
+E:\pix2tex_project\data\mini\images\81.png	\alpha + \beta = \gamma
+E:\pix2tex_project\data\mini\images\57.png	\alpha + \beta = \gamma
+E:\pix2tex_project\data\mini\images\60.png	\alpha + \beta = \gamma
+E:\pix2tex_project\data\mini\images\98.png	\lim_{x \to \infty} \frac{1}{x} = 0
+E:\pix2tex_project\data\mini\images\73.png	\frac{x^2 + 3x - 5}{2a}
+E:\pix2tex_project\data\mini\images\62.png	x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
+E:\pix2tex_project\data\mini\images\23.png	\alpha + \beta = \gamma
+E:\pix2tex_project\data\mini\images\9.png	\exists y : y > x
+E:\pix2tex_project\data\mini\images\12.png	x^2 + y^2 = z^2
+E:\pix2tex_project\data\mini\images\38.png	\int_0^1 x \, dx
+E:\pix2tex_project\data\mini\images\52.png	\mathcal{L} = \frac{1}{2}mv^2
+E:\pix2tex_project\data\mini\images\50.png	\prod_{k=1}^{n} k = n!
+E:\pix2tex_project\data\mini\images\82.png	\vec{F} = m\vec{a}
+E:\pix2tex_project\data\mini\images\40.png	\mathcal{L} = \frac{1}{2}mv^2
+E:\pix2tex_project\data\mini\images\84.png	\alpha + \beta = \gamma
+E:\pix2tex_project\data\mini\images\86.png	\vec{F} = m\vec{a}
+E:\pix2tex_project\data\mini\images\85.png	\frac{a}{b}
+E:\pix2tex_project\data\mini\images\75.png	\alpha + \beta = \gamma
+E:\pix2tex_project\data\mini\images\72.png	\partial_t u + \nabla \cdot (u \mathbf{v}) = 0
+E:\pix2tex_project\data\mini\images\16.png	\binom{n}{k} = \frac{n!}{k!(n-k)!}
+E:\pix2tex_project\data\mini\images\92.png	\vec{F} = m\vec{a}
+E:\pix2tex_project\data\mini\images\56.png	\frac{a}{b}
+E:\pix2tex_project\data\mini\images\90.png	e^{i\pi} + 1 = 0
+E:\pix2tex_project\data\mini\images\0.png	\int_0^1 x \, dx
+E:\pix2tex_project\data\mini\images\29.png	\nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon_0}
+E:\pix2tex_project\data\mini\images\10.png	\nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon_0}
+E:\pix2tex_project\data\mini\images\55.png	\sum_{i=1}^{n} x_i
+E:\pix2tex_project\data\mini\images\37.png	x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
+E:\pix2tex_project\data\mini\images\69.png	e^{i\pi} + 1 = 0
+E:\pix2tex_project\data\mini\images\43.png	\frac{a}{b}
+E:\pix2tex_project\data\mini\images\34.png	\vec{F} = m\vec{a}
+E:\pix2tex_project\data\mini\images\96.png	\sin^2 \theta + \cos^2 \theta = 1
+E:\pix2tex_project\data\mini\images\83.png	\frac{a}{b}
+E:\pix2tex_project\data\mini\images\1.png	x^2 + y^2 = z^2
+E:\pix2tex_project\data\mini\images\70.png	\lim_{x \to \infty} \frac{1}{x} = 0
+E:\pix2tex_project\data\mini\images\32.png	\sqrt{2\pi r}
+E:\pix2tex_project\data\mini\images\67.png	\mathcal{L} = \frac{1}{2}mv^2
+E:\pix2tex_project\data\mini\images\59.png	\sum_{i=1}^{n} x_i
+E:\pix2tex_project\data\mini\images\48.png	\sum_{i=1}^{n} x_i
+E:\pix2tex_project\data\mini\images\49.png	\forall x \in \mathbb{R}
+E:\pix2tex_project\data\mini\images\8.png	\sum_{i=1}^{n} x_i
+E:\pix2tex_project\data\mini\images\76.png	\frac{x^2 + 3x - 5}{2a}
+E:\pix2tex_project\data\mini\images\93.png	e^{i\pi} + 1 = 0

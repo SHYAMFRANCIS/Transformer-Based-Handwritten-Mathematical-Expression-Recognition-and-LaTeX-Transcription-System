@@ -1,0 +1,10 @@
+E:\pix2tex_project\data\mini\images\20.png	e^{i\pi} + 1 = 0
+E:\pix2tex_project\data\mini\images\80.png	\forall x \in \mathbb{R}
+E:\pix2tex_project\data\mini\images\19.png	\forall x \in \mathbb{R}
+E:\pix2tex_project\data\mini\images\14.png	e^{i\pi} + 1 = 0
+E:\pix2tex_project\data\mini\images\6.png	\int_0^1 x \, dx
+E:\pix2tex_project\data\mini\images\11.png	\frac{a}{b}
+E:\pix2tex_project\data\mini\images\63.png	\lim_{x \to \infty} \frac{1}{x} = 0
+E:\pix2tex_project\data\mini\images\65.png	\mathcal{L} = \frac{1}{2}mv^2
+E:\pix2tex_project\data\mini\images\17.png	\partial_t u + \nabla \cdot (u \mathbf{v}) = 0
+E:\pix2tex_project\data\mini\images\28.png	\frac{x^2 + 3x - 5}{2a}
